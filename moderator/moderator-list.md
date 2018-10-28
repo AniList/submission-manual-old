@@ -54,7 +54,7 @@
 | :--- | :--- | :--- | :--- |
 | [Josh](http://anilist.co/user/1) | Lead Developer |  | Community |
 | [Matchai](http://anilist.co/user/2) | Lead Social Media | Developer | Community |
-| [MexicanAnime](http://anilist.co/user/1790) |  Social Media |  | Community |
+| [MexicanAnime](http://anilist.co/user/1790) | Social Media |  | Community |
 | [Lemon](http://anilist.co/user/639) | Social Media |  | Community |
 | [Shammy](http://anilist.co/user/1525) | Social Media |  | Community |
 | [Kazakuri](http://anilist.co/user/4659) | Developer |  | Community |
