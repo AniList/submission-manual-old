@@ -1,5 +1,12 @@
 # Moderator List
 
+{% hint style="info" %}
+Feel free to message moderators for assistance with submitting entries - which they'll be happy to do so .  
+Additionally, you can ask on [Discord](http://discord.me/anilist).
+
+However, please don't expect them to do all the work for you.
+{% endhint %}
+
 ### Anime
 
 | Name | Role | Role |
