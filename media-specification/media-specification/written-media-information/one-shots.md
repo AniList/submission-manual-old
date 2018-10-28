@@ -10,7 +10,7 @@ Self-published works are not classed as one-shots. However, if the author is alr
 
 ### Compilations and Anthologies
 
-It is acceptable for _**both**_ the standalone one-shot and any anthology or collection it is compiled into to be added to the website. These must be linked through the ‘**contains**’ and '**compilation**' ****[relations](../../../submission-form-1/relations.md).
+It is acceptable for _**both**_ the standalone one-shot and any anthology or collection it is compiled into to be added to the website. These must be linked through the ‘**contains**’ and '**compilation**' ****[relations](../../../submission-form/relations.md).
 
 Example:
 
@@ -21,7 +21,7 @@ Example:
 In the case of retroactively creating standalone entries when the compiled volume already exists in the database, the standalone one-shot _**must**_ have the date when it was first printed, not the date the anthology or collection was released \(where applicable\).
 
 {% hint style="warning" %}
-Compilations one-shots should have the ‘_Manga_’ [format](../../../submission-form-1/general/typings/untitled-6.md).
+Compilations one-shots should have the ‘_Manga_’ [format](../../../submission-form/general/typings/untitled-6.md).
 {% endhint %}
 
 

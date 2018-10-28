@@ -5,7 +5,7 @@
 Doujinshi can be added to the website if it meets all the following criteria:
 
 1. The doujinshi is by an _**already**_ serialised mangaka. 
-2. It meets the Japanese '[Country Of Origin](../../../submission-form-1/general/typings/untitled-8.md)'. 
+2. It meets the Japanese '[Country Of Origin](../../../submission-form/general/typings/untitled-8.md)'. 
 3. The doujinshi is not based on existing published material \(anime, manga, manhwa etc.\) - it must be an _**original**_ work.
 
 {% hint style="warning" %}

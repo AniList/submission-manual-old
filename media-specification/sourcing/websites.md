@@ -20,7 +20,7 @@ Please remember that magazine issue date is not always the month the magazine wa
   \(Example: [Hibiki: Shousetsuka ni Naru Houhou](https://ja.wikipedia.org/wiki/%E9%9F%BF_%E3%80%9C%E5%B0%8F%E8%AA%AC%E5%AE%B6%E3%81%AB%E3%81%AA%E3%82%8B%E6%96%B9%E6%B3%95%E3%80%9C)\)
 
 * [Pixiv Encyclopedia](https://dic.pixiv.net/) can often be useful for not only character names, but all manner of information, similar to Wikipedia, a lot of information gets collated into series pages.  \(Example: [3gatsu no Lion](%20https://dic.pixiv.net/a/3月のライオン)\) 
-* [MyAnimeList](https://myanimelist.net/), [MangaUpdates](https://www.mangaupdates.com/), and [Kitsu ](https://kitsu.io/explore/anime)are often sourced - whilst this is OK, these alone aren’t always accurate enough, as they can often contain errors. However, please link the first two if they exist, especially as [AniList ](http://anilist.co)_**requires**_ the works' [MAL ID](../../submission-form-1/general/misc/myanimelist-id.md) for mapping series between the two websites for list imports. 
+* [MyAnimeList](https://myanimelist.net/), [MangaUpdates](https://www.mangaupdates.com/), and [Kitsu ](https://kitsu.io/explore/anime)are often sourced - whilst this is OK, these alone aren’t always accurate enough, as they can often contain errors. However, please link the first two if they exist, especially as [AniList ](http://anilist.co)_**requires**_ the works' [MAL ID](../../submission-form/general/misc/myanimelist-id.md) for mapping series between the two websites for list imports. 
 * Anime and Manga aggregators \(streaming/scanlation hosting sites\) should almost never be used as a single or primary source. They usually lack or have incorrect data.
 
 Anime Specific

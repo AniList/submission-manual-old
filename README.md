@@ -15,7 +15,7 @@ If you have any queries in relation to submitting or updating content on the sit
 Any changes to this guide or database will be announced on the [website](http://anilist.co) and also written in the manual [change log](changelog.md).
 
 {% hint style="warning" %}
-It is _**highly recommended**_ that you read the both the [Checklist](introduction/before-you-begin.md) and [Media Specification](media-specification/media-specification/) section prior to any submissions, or at least relevant sections within it. 
+It is _**highly recommended**_ that you read the both the [Checklist](before-you-begin/before-you-begin.md) and [Media Specification](media-specification/media-specification/) section prior to any submissions, or at least relevant sections within it. 
 
 The latter section states what _**is**_ and _**is not**_ accepted onto the database and provides many helpful tips within.
 {% endhint %}

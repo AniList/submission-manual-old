@@ -3,11 +3,11 @@
 The below list contains web platforms or self-publishing services that often cause confusion on whether the series is allowed or not. It is mostly for referencing rather than a complete list of what _is_ or i_s not_ allowed and can be expanded. Specific print and web magazines aren’t mentioned here.
 
 {% hint style="info" %}
-If one of the below accepted links exist, please add them to the [External Links](../../../submission-form-1/external-links.md). Additionally, [Mavo ](https://www.mavo.co.jp/)and [Pixiv](http://pixiv.net), and [Twitter ](http://twitter.com/)links can still be used for eligible [doujinshi](doujinshi.md).
+If one of the below accepted links exist, please add them to the [External Links](../../../submission-form/external-links.md). Additionally, [Mavo ](https://www.mavo.co.jp/)and [Pixiv](http://pixiv.net), and [Twitter ](http://twitter.com/)links can still be used for eligible [doujinshi](doujinshi.md).
 {% endhint %}
 
 {% hint style="warning" %}
-As always, works still have to satisfy the Japanese, Chinese, Korean, or Taiwanese ‘[Country Of Origin](../../../submission-form-1/general/typings/untitled-8.md)’ type.
+As always, works still have to satisfy the Japanese, Chinese, Korean, or Taiwanese ‘[Country Of Origin](../../../submission-form/general/typings/untitled-8.md)’ type.
 {% endhint %}
 
 If the work originally published on ‘_Not Accepted_‘ websites is later picked up by a professional publisher of _**the same language**_, that later publication would be what can be added to the database.

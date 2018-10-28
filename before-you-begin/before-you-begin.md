@@ -8,7 +8,7 @@ You can check by running English, native language, and romaji titles through the
 
 * Always include as much detail as possible, as well as link to as many sources as possible in the sources panel \(even if it is in a language you can’t read\). 
 * If you find a duplicate entry, contact a [moderator](../moderator/moderator-list.md). 
-* The nationality of a creator does not matter if their work is first professionally published by a reputable Japanese, Chinese, Korean, or Taiwanese publisher for their respective markets \(See [Country Of Origin](../submission-form-1/general/typings/untitled-8.md)\).  Example:
+* The nationality of a creator does not matter if their work is first professionally published by a reputable Japanese, Chinese, Korean, or Taiwanese publisher for their respective markets \(See [Country Of Origin](../submission-form/general/typings/untitled-8.md)\).  Example:
 
 > [Thiago Furukawa Lucas](https://anilist.co/staff/99212/Yuu-Kamiya) \(author of [No Game, No Life](https://anilist.co/manga/78399/No-Game-No-Life/)\) is Brazilian-Japanese, but the work was initially published with Kodansha in Japanese, so his work is considered a light novel.
 

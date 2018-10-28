@@ -7,7 +7,7 @@ Volume covers for manga and novels - and many key illustrations for anime - aren
 {% hint style="info" %}
 There is an exception to the 2:3 ratio for _temporary_ covers such as announcement images for new serialisation or anime that can't be reasonably cropped.   
   
-An example can be seen in the [cover ](../submission-form-1/images/cover.md)section.
+An example can be seen in the [cover ](../submission-form/images/cover.md)section.
 {% endhint %}
 
 ### Recommended Dimensions for Cropping or Creation

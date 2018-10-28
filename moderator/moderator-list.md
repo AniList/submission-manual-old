@@ -20,10 +20,10 @@
 | [adustyspectacle](http://anilist.co/user/26062) | Anime \(BL\) |  |
 | [Edo](https://anilist.co/user/40572) | Anime |  |
 | [W8TERM3LON](https://anilist.co/user/57315) | Anime |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| [tacticianjack](https://www.notion.so/tacticianjack-47977121ced54b76bd0ec5bcf79fecf8) | Anime |  |
+| [safe](https://www.notion.so/safe-eb4560d8475f45cd96c407becf530e0b) | Anime |  |
+| [Sakura](https://www.notion.so/Sakura-33d5bdd78bb849fd9f98d871fdfc5b89) | Anime |  |
+| [Electrochemist](https://www.notion.so/Electrochemist-d51afa0a5e76423881433de6e812a6d5) | Anime |  |
 
 ### Manga
 
@@ -42,10 +42,11 @@
 | [Chi](https://anilist.co/user/15530) | Manga |  |
 | [alice](http://anilist.co/user/20955) | Manga |  |
 | [Silver](https://anilist.co/user/33516) | Manga |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| [nazo](https://www.notion.so/nazo-a2e6cffe9ea64f5587847f0a4dd128db) | Manga |  |
+| [TGG](https://www.notion.so/TGG-2d7056d3c8924af1ad7d2b0a9fd043ab) | Manga |  |
+| [IdleSheep](https://www.notion.so/IdleSheep-8ab18753de424f65a17e86e800966690) | Manga |  |
+| [Urtag](https://www.notion.so/Urtag-f982c63b99d14553846222ca4f5da0b4) | Manga |  |
+| [Flidaix](https://www.notion.so/Flidaix-1ab48a452fa2434cabf51f488f36ac2b) | Manga |  |
 
 ### Other Roles
 
@@ -53,7 +54,7 @@
 | :--- | :--- | :--- | :--- |
 | [Josh](http://anilist.co/user/1) | Lead Developer |  | Community |
 | [Matchai](http://anilist.co/user/2) | Lead Social Media | Developer | Community |
-| [MexicanAnime](http://anilist.co/user/1790) |      Social Media |  | Community |
+| [MexicanAnime](http://anilist.co/user/1790) |  Social Media |  | Community |
 | [Lemon](http://anilist.co/user/639) | Social Media |  | Community |
 | [Shammy](http://anilist.co/user/1525) | Social Media |  | Community |
 | [Kazakuri](http://anilist.co/user/4659) | Developer |  | Community |

@@ -20,5 +20,5 @@ Example 1:
 
 Example 2:
 
-> [Boku wa Tomodachi ga Sukunai Episode 0](https://anilist.co/anime/10897/Boku-wa-Tomodachi-ga-Sukunai-Episode-0/) was released as an [OVA ](ovas-and-onas.md)alongside a volume of the light novel. As the [format](../../../submission-form-1/general/typings/untitled-6.md) differs from the main TV series, it would have a separate entry.
+> [Boku wa Tomodachi ga Sukunai Episode 0](https://anilist.co/anime/10897/Boku-wa-Tomodachi-ga-Sukunai-Episode-0/) was released as an [OVA ](ovas-and-onas.md)alongside a volume of the light novel. As the [format](../../../submission-form/general/typings/untitled-6.md) differs from the main TV series, it would have a separate entry.
 

@@ -18,7 +18,7 @@ Example
 
 #### **Split seasons**
 
-If a 'season' of the show will air for multiple seasons, but has at least a one [airing season](../submission-form-1/general/release-data/season.md) gap in between. The subsequent entries should have 'Part 2' or equivalent, if no official title is given.
+If a 'season' of the show will air for multiple seasons, but has at least a one [airing season](../submission-form/general/release-data/season.md) gap in between. The subsequent entries should have 'Part 2' or equivalent, if no official title is given.
 
 Example
 
